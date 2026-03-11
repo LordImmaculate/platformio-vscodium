@@ -1,4 +1,5 @@
-# PlatformIO IDE for Cursor
+# PlatformIO IDE for VSCodium/Cursor
+# !! VERSION TO PUBLISH TO OPENVSX - COPY FROM https://github.com/davidgomes/platformio-cursor-ide/tree/develop?tab=License-1-ov-file#
 
 [PlatformIO](https://platformio.org): Your Gateway to Embedded Software Development Excellence.
 
