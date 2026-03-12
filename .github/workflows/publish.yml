@@ -2,8 +2,6 @@ name: Publish to OpenVSX
 
 on:
   push:
-    tags:
-      - 'v*'
 
 jobs:
   publish:
