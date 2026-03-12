@@ -1,13 +1,13 @@
 {
   "name": "platformio-ide",
-  "version": "3.3.5",
+  "version": "3.3.4.2",
   "publisher": "LordImmaculate",
   "engines": {
     "vscode": "^1.65.0"
   },
   "license": "Apache-2.0",
   "displayName": "PlatformIO IDE for VSCodium/Cursor",
-  "description": "[REPUBLISH] Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32), Teensy. This extension has been adapted for Cursor.",
+  "description": "Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32), Teensy. This extension has been adapted for VSCodium/Cursor.",
   "categories": [
     "Programming Languages",
     "Linters",
@@ -29,11 +29,11 @@
     "name": "PlatformIO Labs"
   },
   "bugs": {
-    "url": "https://github.com/platformio/platformio-vscode-ide/issues"
+    "url": "https://github.com/LordImmaculate/platformio-vscodium/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platformio-vscode-ide.git"
+    "url": "https://github.com/LordImmaculate/platformio-vscodium"
   },
   "activationEvents": [
     "workspaceContains:**/platformio.ini"
